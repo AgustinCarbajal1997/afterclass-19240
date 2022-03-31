@@ -1,0 +1,696 @@
+{
+  "products": {
+    "1": {
+      "brand": {
+        "image": "https://images.fravega.com/f300/8a0365165c7771f833ca62aaefc07d30.png",
+        "name": "Samsung"
+      },
+      "article": "celulares",
+      "slug": "samsung-galaxy-A51-128-GB-negro",
+      "title": "Samsung Galaxy A51 128 GB Negro",
+      "images": [
+        "https://images.fravega.com/s500/77cb4cf98ab39fe4e3157c44d2dced2a.jpg",
+        "https://images.fravega.com/s500/c6c0c9460c0133cfc23a6b95aa5a1e95.jpg",
+        "https://images.fravega.com/s500/1c134c32ca62b9f84333aefda2b077d5.jpg",
+        "https://images.fravega.com/s500/9fbbbbfe83851e3b7d7f41365d79479d.jpg",
+        "https://images.fravega.com/s500/c6c0c9460c0133cfc23a6b95aa5a1e95.jpg",
+        "https://images.fravega.com/s500/edc414d443ec86471a483ab673d59c58.jpg"
+      ],
+      "price": 47999.0,
+      "highlighted": 12.0,
+      "saleoff": 0.0,
+      "unites": 4.0,
+      "description": [
+        {
+          "title": "Guardá lo que quieras",
+          "paragraph": "Posee una memoria interna de 128 GB y la posibilidad de expandirla, con una tarjeta microSD, hasta 512 GB. Vas a poder descargar aplicaciones, almacenar videos, fotos y música sin problemas."
+        },
+        {
+          "title": "Capturá tus momentos",
+          "paragraph": "El Celular Samsung Galaxy A51 tiene un impresionante sistema multicámara para la parte principal. En total son 5 cámaras que te van a permitir capturar todo tipo de imágenes con una resolución increíble. Su sistema trasero tiene 4 cámaras con las siguientes resoluciones: 48.0 MP + 12.0 MP + 5.0 MP + 5.0 MP. En tanto, su sistema frontal ofrece una cámara de 32 MP, para que saques las mejores selfies. "
+        },
+        {
+          "title": "Viví conectado",
+          "paragraph": "El wifi y LTE inteligentes te conectan más rápido a tu contenido favorito. Compartí más rápido y mantenete conectado incluso entre la multitud."
+        },
+        {
+          "title": "No te quedes sin batería",
+          "paragraph": "La batería de 4000 mAh le otorga una gran autonomía de uso, por lo que podrás disfrutarlo durante todo el día sin necesidad de recargarlo."
+        },
+        {
+          "title": "Disfrutá de un gran rendimiento",
+          "paragraph": "Su procesador Octa Core y la memoria RAM de 4 GB te permitirán ejecutar aplicaciones y múltiples tareas al mismo tiempo. Además, su sistema operativo Android es super eficiente e intuitivo."
+        },
+        {
+          "title": "Diseño",
+          "paragraph": "El Samsung Galaxy A51 cuenta con un elegante e innovador diseño que incluye una pantalla con tecnología Super AMOLED con una increíble resolución Full HD (1080 x 2400)."
+        }
+      ],
+      "specifications": [
+        {
+          "title": "Cámara",
+          "especifications1": "Cámara principal",
+          "especifications2": "48.0 MP + 12.0 MP + 5.0 MP + 5.0 MP (apertura múltiple: F2.0 , F2.2 , F2.4 , F2.2)"
+        },
+        {
+          "title": "Memoria",
+          "especifications1": "Memoria interna (ROM)",
+          "especifications2": "128 GB"
+        },
+        {
+          "title": "Imagen",
+          "especifications1": "Tamaño Pantalla",
+          "especifications2": "6.5"
+        },
+        {
+          "title": "Red",
+          "especifications1": "4G-LTE",
+          "especifications2": "Dual Chip"
+        },
+        {
+          "title": "Conectividad",
+          "especifications1": "Bluetooth",
+          "especifications2": "USB C"
+        },
+        {
+          "title": "Características generales ",
+          "especifications1": "Sistema operativo",
+          "especifications2": "Android"
+        },
+        {
+          "title": "Bateria",
+          "especifications1": "Bateria",
+          "especifications2": "4000 mAh"
+        },
+        {
+          "title": "Dimensiones",
+          "especifications1": "Dimensiones",
+          "especifications2": "158,5 x 73,6 x 7,9 mm"
+        }
+      ]
+    },
+    "2": {
+      "brand": {
+        "image": "https://images.fravega.com/f300/d3001894cfcacb9fde93548690e380fb.png",
+        "name": "Philips"
+      },
+      "article": "televisores",
+      "slug": "philips-smart-TV-4k-UHD-70-PUG677477",
+      "title": "Philips Smart TV 4k UHD 70” PUG677477",
+      "images": [
+        "https://images.fravega.com/s500/3776bf70a4c073149b4ad425f2548620.jpg",
+        "https://images.fravega.com/s500/a7ed727152c2d1d3d2844881d84857ff.jpg"
+      ],
+      "price": 149999.0,
+      "highlighted": 0.0,
+      "saleoff": 21.0,
+      "unites": 3.0,
+      "description": [
+        {
+          "title": "Descargá tus aplicaciones",
+          "paragraph": "La galería de aplicaciones de Philips te permite acceder a YouTube, Netflix y mucho más. Es una amplia colección de aplicaciones en línea a las que podés acceder tan pronto como tu Smart TV esté conectado a internet. Cuenta con SAPHI, un sistema operativo rápido e intuitivo que hace que sea un verdadero placer usar el Smart TV de Philips. "
+        },
+        {
+          "title": "Conectá tu dispositivos",
+          "paragraph": "Mediante sus 3 entradas HDMI podés vincular reproductores de audio y video; consolas de juegos y notebooks. Su gran capacidad de transmisión de datos permite disfrutar de imágenes en alta definición y un sonido de gran fidelidad. También, a través de sus 2 puertos USB, podrás reproducir contenido multimedia (música, fotos y videos) almacenado en tus dispositivos externos como tablets, smartphones y pendrives."
+        },
+        {
+          "title": "Disfrutá 4K UHD",
+          "paragraph": "El Smart TV Philips 70 pulgadas cuenta con una pantalla formato widescreen (16:9) con resolución de 3840 x 2160 píxeles (cuatro veces superior a la de una TV Full HD). A diferencia del estándar HD, su alto nivel de detalle brinda colores más puros y nítidos. Además, a diferencia de otras pantallas LED, el optimizador Pixel Precise Ultra HD de Philips le da una mayor nitidez, imágenes fluidas y una profundidad asombrosa. Disfrutá de sus graves profundos y diálogos nítidos."
+        },
+        {
+          "title": "Diseño",
+          "paragraph": "El Smart TV Philips PUG6774/77 posee un diseño con bases delgadas y refinadas, que transmiten liviandad."
+        }
+      ],
+      "specifications": [
+        {
+          "title": "Imagen",
+          "especifications1": "Tamaño de Pantalla",
+          "especifications2": "75'"
+        },
+        {
+          "title": "Características Generales",
+          "especifications1": "Smart TV",
+          "especifications2": "Sí"
+        },
+        {
+          "title": "Conectividad",
+          "especifications1": "Entradas HDMI",
+          "especifications2": "Entradas USB"
+        },
+        {
+          "title": "Que Incluye?",
+          "especifications1": "Control Remoto",
+          "especifications2": "Sí"
+        },
+        {
+          "title": "Modelo y origen",
+          "especifications1": "Origen",
+          "especifications2": "Argentina"
+        }
+      ]
+    },
+    "3": {
+      "brand": {
+        "image": "https://blog.cstictv.com/wp-content/uploads/2021/01/tcl.png",
+        "name": "TCL"
+      },
+      "article": "televisores",
+      "slug": "tcl-smart-TV-55-QLED 4K-Ultra-HD",
+      "title": "TCL Smart TV 55' QLED 4K Ultra HD",
+      "images": [
+        "https://images.fravega.com/s500/6733b79ebdf594370e1893e191d28713.jpg",
+        "https://images.fravega.com/s500/5afa35458b2e1de158cd6dbd780f01f9.jpg",
+        "https://images.fravega.com/s500/22d963001d8045e5ae83a8dedc6be68e.jpg",
+        "https://images.fravega.com/s500/b79e93c9f1533f4e31314ea034414a53.jpg",
+        "https://images.fravega.com/s500/f6e51dc4689629fd43eac42772ba5f8a.jpg",
+        "https://images.fravega.com/s500/2b4c2264405829a04094fac3ea77d8c7.jpg"
+      ],
+      "price": 99999.0,
+      "highlighted": 0.0,
+      "saleoff": 0.0,
+      "unites": 5.0,
+      "description": [
+        {
+          "title": "Descargá tus aplicaciones",
+          "paragraph": "La galería de aplicaciones de Philips te permite acceder a YouTube, Netflix y mucho más. Es una amplia colección de aplicaciones en línea a las que podés acceder tan pronto como tu Smart TV esté conectado a internet. Cuenta con SAPHI, un sistema operativo rápido e intuitivo que hace que sea un verdadero placer usar el Smart TV de Philips. "
+        },
+        {
+          "title": "Navegá por la web",
+          "paragraph": "Mediante sus entradas HDMI podés vincular reproductores de audio y video; consolas de juegos y notebooks. Su gran capacidad de transmisión de datos permite disfrutar de imágenes en alta definición y un sonido de gran fidelidad. También, a través de su puerto USB, podrás reproducir contenido multimedia (música, fotos, videos) almacenado en tus dispositivos externos como tablets, smartphones y pendrives."
+        },
+        {
+          "title": "Disfrutá 4K UHD",
+          "paragraph": "El Smart TV TCL L55C715 de 54,6 pulgadas cuenta con una pantalla formato widescreen (16:9) con una resolución de 3840 x 2160 píxeles (cuatro veces superior a la de una TV Full HD). A diferencia del estándar HD, su alto nivel de detalle brinda colores más puros y nítidos."
+        }
+      ],
+      "specifications": [
+        {
+          "title": "Imagen",
+          "especifications1": "Tamaño de Pantalla",
+          "especifications2": "75'"
+        },
+        {
+          "title": "Características Generales",
+          "especifications1": "Smart TV",
+          "especifications2": "Sí"
+        },
+        {
+          "title": "Conectividad",
+          "especifications1": "Entradas HDMI",
+          "especifications2": "Entradas USB"
+        },
+        {
+          "title": "Que Incluye?",
+          "especifications1": "Control Remoto",
+          "especifications2": "Sí"
+        },
+        {
+          "title": "Modelo y origen",
+          "especifications1": "Origen",
+          "especifications2": "Argentina"
+        }
+      ]
+    },
+    "4": {
+      "brand": {
+        "image": "https://blog.cstictv.com/wp-content/uploads/2021/01/tcl.png",
+        "name": "TCL"
+      },
+      "article": "televisores",
+      "slug": "smart-TV-42-Full-HD-TCL-L42S6500",
+      "title": "Smart TV 42' Full HD TCL L42S6500",
+      "images": [
+        "https://images.fravega.com/s500/e56d17ca976044828eefe7eea2d11cdf.jpg",
+        "https://images.fravega.com/s500/27e5c9f184ffca30ec181d1d587a4980.jpg",
+        "https://images.fravega.com/s500/187acfac828d131ea627d29141d8308a.jpg"
+      ],
+      "price": 47999.0,
+      "highlighted": 0.0,
+      "saleoff": 18.0,
+      "unites": 5.0,
+      "description": [
+        {
+          "title": "Conectá tus dispositivos",
+          "paragraph": "Gracias a que viene con Wi-Fi incorporado vas a poder acceder a internet de forma inalámbrica o bien, a través de cable de red mediante su puerto LAN. Disfrutá de tus app preferidas como: Netflix y Youtube, entre otras."
+        },
+        {
+          "title": "Navegá por la web",
+          "paragraph": "Mediante sus entradas HDMI podés vincular reproductores de audio y video; consolas de juegos y notebooks. Su gran capacidad de transmisión de datos permite disfrutar de imágenes en alta definición y un sonido de gran fidelidad. También, a través de su puerto USB, podrás reproducir contenido multimedia (música, fotos, videos) almacenado en tus dispositivos externos como tablets, smartphones y pendrives."
+        },
+        {
+          "title": "Disfrutá 4K UHD",
+          "paragraph": "El Smart TV TCL L42S6500 de 41,5 pulgadas cuenta con una pantalla formato widescreen (16:9) con una resolución FULL HD de 1080 x 1920 píxeles (superior a la de una TV HD). A diferencia del estándar HD, su alto nivel de detalle brinda colores más puros y nítidos."
+        }
+      ],
+      "specifications": [
+        {
+          "title": "Imagen",
+          "especifications1": "Tamaño de Pantalla",
+          "especifications2": "42'"
+        },
+        {
+          "title": "Características Generales",
+          "especifications1": "Smart TV",
+          "especifications2": "Sí"
+        },
+        {
+          "title": "Conectividad",
+          "especifications1": "Entradas HDMI",
+          "especifications2": "Entradas USB"
+        },
+        {
+          "title": "Que Incluye?",
+          "especifications1": "Control Remoto",
+          "especifications2": "Sí"
+        },
+        {
+          "title": "Modelo y origen",
+          "especifications1": "Origen",
+          "especifications2": "Argentina"
+        }
+      ]
+    },
+    "5": {
+      "brand": {
+        "image": "",
+        "name": "Lenovo"
+      },
+      "article": "notebooks",
+      "slug": "notebook-lenovo-core-i3-8GB-256GB-IP-5-82FG00JF",
+      "title": "Notebook Lenovo 15,6' Core i3 8GB 256GB IP-5 82FG00JF",
+      "images": [
+        "https://images.fravega.com/s500/28a4f49a3ed21c3eb542f3042205879d.jpg",
+        "https://images.fravega.com/s500/73bfe5ed5671697eb85e2200943bd6ad.jpg",
+        "https://images.fravega.com/s500/4f1f021e091aeeb2ddd8da1e7eef9e5b.jpg",
+        "https://images.fravega.com/s500/0fb4332b0fe5018434c6ddd2b2949b0a.jpg"
+      ],
+      "price": 89999.0,
+      "highlighted": 0.0,
+      "saleoff": 0.0,
+      "unites": 5.0,
+      "description": [
+        {
+          "title": "Diseño",
+          "paragraph": "La notebook Lenovo IP-5 82FG00JF cuenta con un diseño funcional y atractivo. Llevala con vos donde vayas. Ya sea sea en una cartera, morral o mochila, es posible cargarla sin problemas gracias a sus medidas de: 35.6 cm x 23.3 cm x 1.7 cm y su liviano peso de: 1.66 Kg."
+        },
+        {
+          "title": "Desempeño",
+          "paragraph": "Su procesador Intel Core i3-1115G4 y su memoria RAM de 8 GB se complementan para ofrecer un mayor rendimiento. Además, podrás almacenar tu contenido multimedia y programas favoritos en su disco sólido de 256 GB. "
+        },
+        {
+          "title": "Pantalla",
+          "paragraph": "Con la pantalla Full HD de 15,6 pulgadas con una resolución de 1920x1080 IPS podrás disfrutar de películas, videos y juegos o navegar en internet. Asimismo, la placa gráfica integrada Intel UHD Graphics te brindará imágenes con mayor nitidez y definición. "
+        }
+      ],
+      "specifications": [
+        {
+          "title": "Procesador",
+          "especifications1": "Procesador",
+          "especifications2": "Intel Core i3-1115G4"
+        },
+        {
+          "title": "Memoria",
+          "especifications1": "Disco SSD",
+          "especifications2": "256 GB"
+        },
+        {
+          "title": "Sistema Operativo",
+          "especifications1": "Sistema operativo",
+          "especifications2": "Windows 10"
+        },
+        {
+          "title": "Imagen",
+          "especifications1": "Tamaño de pantalla",
+          "especifications2": "15.6 pulgadas"
+        },
+        {
+          "title": "Batería",
+          "especifications1": "Duración de batería",
+          "especifications2": "7 horas"
+        },
+        {
+          "title": "Dimensiones",
+          "especifications1": "Medidas",
+          "especifications2": "35.6 cm x 23.3 cm x 1.7 cm"
+        },
+        {
+          "title": "Conectividad",
+          "especifications1": "Puertos usb",
+          "especifications2": "1x USB 3.2 Gen 1/1x USB 3.2 Gen 1 (Always On)/1x USB-C 3.2 Gen 1 (support data transfer, Power Delivery 3.0 and DisplayPort™ 1.4)"
+        }
+      ]
+    },
+    "6": {
+      "brand": {
+        "image": "https://images.fravega.com/f300/e9c41de5ad2755a7172486d7e5a6ffd1.png",
+        "name": "HP"
+      },
+      "article": "notebooks",
+      "slug": "notebook-hp",
+      "title": "Notebook HP 15-gw0004la AMD Athlon Silver 3050U 8GB 1TB HDD 15.6'",
+      "images": [
+        "https://images.fravega.com/s500/440a8633d1fc27f9fd9ced1b172042fa.jpg",
+        "https://images.fravega.com/s500/b5881877beab4add50f078bf28935f6f.jpg",
+        "https://images.fravega.com/s500/f362384b36179aa84eb8a2605e881338.jpg",
+        "https://images.fravega.com/s500/ac0ee0a07336543d1551556111aba7dd.jpg",
+        "https://images.fravega.com/s500/113b9814a925f9efc529389b25b029d6.jpg"
+      ],
+      "price": 64999.0,
+      "highlighted": 0.0,
+      "saleoff": 0.0,
+      "unites": 5.0,
+      "description": [
+        {
+          "title": "Diseño",
+          "paragraph": "La notebook HP 15-GW0004LA cuenta con un diseño compacto y funcional. Sus prácticas medidas de: 35,85 cm de largo x 24,2 cm de ancho x 1,99 cm de alto y su liviano peso de tan sólo: 1,47 Kg permite que puedas llevarla con vos a donde vayas."
+        },
+        {
+          "title": "Desempeño",
+          "paragraph": "Su procesador AMD Athlon Silver 3050U y su memoria de 8GB se complementan para ofrecer un mayor rendimiento con un bajo consumo de energía. Además, su disco rígido de 1TB le da una gran capacidad de almacenamiento de datos y te permite guardar una mayor cantidad de contenido multimedia."
+        },
+        {
+          "title": "Pantalla",
+          "paragraph": "Posee una pantalla de 15,6 pulgadas con una resolución de 1366x768 que te permitirá disfrutar de una gran calidad de colores e imagen. Ideal para ver maratones de series y películas. "
+        }
+      ],
+      "specifications": [
+        {
+          "title": "Procesador",
+          "especifications1": "Procesador",
+          "especifications2": "AMD Athlon Silver 3050U"
+        },
+        {
+          "title": "Memoria",
+          "especifications1": "Disco rígido",
+          "especifications2": "1TB"
+        },
+        {
+          "title": "Sistema Operativo",
+          "especifications1": "Sistema operativo",
+          "especifications2": "Windows 10"
+        },
+        {
+          "title": "Imagen",
+          "especifications1": "Tamaño de pantalla",
+          "especifications2": "15.6 pulgadas"
+        },
+        {
+          "title": "Batería",
+          "especifications1": "Duración de batería",
+          "especifications2": "7 horas"
+        },
+        {
+          "title": "Dimensiones",
+          "especifications1": "Medidas",
+          "especifications2": "35,85 cm de largo x 24,2 cm de ancho x 1,99 cm de alto"
+        },
+        {
+          "title": "Conectividad",
+          "especifications1": "Puertos usb",
+          "especifications2": "1 USB Type-C/2 USB Type-A"
+        }
+      ]
+    },
+    "7": {
+      "brand": {
+        "image": "https://images.fravega.com/f300/770a2b56845a671347ee51308b9df42b.png",
+        "name": "Nictom"
+      },
+      "article": "smartwatches",
+      "slug": "smartwatch-nictom",
+      "title": "Smartwatch Nictom Kw37 Rosa",
+      "images": [
+        "https://images.fravega.com/s500/5f751186ae506d0ec83aa7487bdcff96.jpg",
+        "https://images.fravega.com/s500/04f27671ae4d893ebdab7609e01f7db8.jpg",
+        "https://images.fravega.com/s500/0a0faec36a8e0c2fa40540124caf1e86.jpg",
+        "https://images.fravega.com/s500/4dff1411475f55c7b227480c2908b025.jpg"
+      ],
+      "price": 3699.0,
+      "highlighted": 0.0,
+      "saleoff": 0.0,
+      "unites": 5.0,
+      "description": [
+        {
+          "title": "Diseño",
+          "paragraph": "Reloj de diseño ideal tanto para uso cotidiano en tareas diarias como para modo de ejercicio: caminar, correr, andar en bicicleta, etc. Incorpora funcionalidades de volumen, zoom y scroll en su perilla giratoria. Permite cargar fondos personalizados de pantalla y customizar su contenido. Mejora en micrófono y auricular."
+        },
+        {
+          "title": "Funcionalidades",
+          "paragraph": "Todas las funcionalidades que necesitas: función de llamada, podómetro, notificaciones de correo y redes sociales, reproducción de música, Monitor de ritmo cardíaca, monitoreo de ejercicio, tiempo de ejercicio, múltiples deportes, Medición del ritmo cardíaco, medición de la presión arterial, control del sueño Recordatorio inteligente, Recordatorio sedentario, recordatorio de llamada. "
+        },
+        {
+          "title": "Detalles técnicos del producto",
+          "paragraph": "Compatibilidad: iOS 8.0 o superior y Android 5.0 o superior.Pantalla: 1.75HDIPS 320*385. Bluetooth: 4.0. Táctil: Pantalla táctil completa batería:230MAH Large-capacity lithium polymer battery IPX68 (resistente a 1.5 max de agua durante 30min).Tiempo de uso: 1 día aprox, dependiendo del uso. Tiempo de carga: 3hs aproximadamente Tiempo de espera: 5 días (dependiendo del funcionamiento real medio ambiente, si enciende la luz larga aumentará el consumo de energía).Requiere descarga de aplicación M Active. Varios idiomas Mide pasos no km Micrófono incluido.Reproduce sonido La caja incluye: 1 x reloj inteligente 1 x Manual del usuario 1x Cable cargador. "
+        }
+      ],
+      "specifications": [
+        {
+          "title": "Pantalla",
+          "especifications1": "Tamaño de pantalla",
+          "especifications2": "1.15'"
+        },
+        {
+          "title": "Memoria",
+          "especifications1": "Memoria Ram",
+          "especifications2": "32 MB"
+        },
+        {
+          "title": "Compatibilidad",
+          "especifications1": "Compatibilidad",
+          "especifications2": "ios android"
+        },
+        {
+          "title": "Resistente al agua",
+          "especifications1": "Tamaño de pantalla",
+          "especifications2": "15.6 pulgadas"
+        },
+        {
+          "title": "Batería",
+          "especifications1": "Bateria",
+          "especifications2": "220MAH Large-capacity lithium"
+        },
+        {
+          "title": "Wi-Fi",
+          "especifications1": "Wi-Fi",
+          "especifications2": "Sí"
+        },
+        {
+          "title": "Bluetooth",
+          "especifications1": "Bluetooth",
+          "especifications2": "Sí"
+        }
+      ]
+    },
+    "8": {
+      "brand": {
+        "image": "https://images.fravega.com/f300/770a2b56845a671347ee51308b9df42b.png",
+        "name": "Nictom"
+      },
+      "article": "smartwatches",
+      "slug": "smartwatch-nictom",
+      "title": "Smartwatch Nictom  Plus Android ios Reloj Inteligente Blanco",
+      "images": [
+        "https://images.fravega.com/s500/3a01b2272d9c434b985808785c57bbe2.jpg",
+        "https://images.fravega.com/s500/118104a0c32e582346631f7d98e01847.jpg",
+        "https://images.fravega.com/s500/da224d478964fd4fe7c98a7a0fa06f02.jpg",
+        "https://images.fravega.com/s500/de893cf792ef777ee3c1a29d98b3e4c1.jpg"
+      ],
+      "price": 6440.0,
+      "highlighted": 0.0,
+      "saleoff": 0.0,
+      "unites": 5.0,
+      "description": [
+        {
+          "title": "Diseño",
+          "paragraph": "Reloj de diseño ideal tanto para uso cotidiano en tareas diarias como para modo de ejercicio: caminar, correr, andar en bicicleta, etc. Incorpora funcionalidades de volumen, zoom y scroll en su perilla giratoria. Permite cargar fondos personalizados de pantalla y customizar su contenido. Mejora en micrófono y auricular."
+        },
+        {
+          "title": "Funcionalidades",
+          "paragraph": "Todas las funcionalidades que necesitas: función de llamada, podómetro, notificaciones de correo y redes sociales, reproducción de música, Monitor de ritmo cardíaca, monitoreo de ejercicio, tiempo de ejercicio, múltiples deportes, Medición del ritmo cardíaco, medición de la presión arterial, control del sueño Recordatorio inteligente, Recordatorio sedentario, recordatorio de llamada. "
+        },
+        {
+          "title": "Detalles técnicos del producto",
+          "paragraph": "Compatibilidad: iOS 8.0 o superior y Android 5.0 o superior.Pantalla: 1.75HDIPS 320*385. Bluetooth: 4.0. Táctil: Pantalla táctil completa batería:230MAH Large-capacity lithium polymer battery IPX68 (resistente a 1.5 max de agua durante 30min).Tiempo de uso: 1 día aprox, dependiendo del uso. Tiempo de carga: 3hs aproximadamente Tiempo de espera: 5 días (dependiendo del funcionamiento real medio ambiente, si enciende la luz larga aumentará el consumo de energía).Requiere descarga de aplicación M Active. Varios idiomas Mide pasos no km Micrófono incluido.Reproduce sonido La caja incluye: 1 x reloj inteligente 1 x Manual del usuario 1x Cable cargador. "
+        }
+      ],
+      "specifications": [
+        {
+          "title": "Pantalla",
+          "especifications1": "Tamaño de pantalla",
+          "especifications2": "1.15'"
+        },
+        {
+          "title": "Memoria",
+          "especifications1": "Memoria Ram",
+          "especifications2": "32 MB"
+        },
+        {
+          "title": "Compatibilidad",
+          "especifications1": "Compatibilidad",
+          "especifications2": "ios android"
+        },
+        {
+          "title": "Resistente al agua",
+          "especifications1": "Tamaño de pantalla",
+          "especifications2": "15.6 pulgadas"
+        },
+        {
+          "title": "Batería",
+          "especifications1": "Bateria",
+          "especifications2": "220MAH Large-capacity lithium"
+        },
+        {
+          "title": "Wi-Fi",
+          "especifications1": "Wi-Fi",
+          "especifications2": "Sí"
+        },
+        {
+          "title": "Bluetooth",
+          "especifications1": "Bluetooth",
+          "especifications2": "Sí"
+        }
+      ]
+    },
+    "9": {
+      "brand": {
+        "image": "",
+        "name": "W26"
+      },
+      "slug": "smartwatch-w26",
+      "title": "Smartwatch W26 Plus Android ios Reloj Inteligente Rosa",
+      "images": [
+        "https://images.fravega.com/s500/1914dfd9f7d0cfe40b1b5ad65e966bc6.jpg",
+        "https://images.fravega.com/s500/7d2ae6cb02d9ace6089144168b27c724.jpg",
+        "https://images.fravega.com/s500/ea0f547112ea697531e41cd7dc1665c3.jpg",
+        "https://images.fravega.com/s500/2b2e798d3ae736307fe46e13af52c31a.jpg"
+      ],
+      "price": 3699.0,
+      "highlighted": 0.0,
+      "saleoff": 0.0,
+      "unites": 5.0,
+      "description": [
+        {
+          "title": "Diseño",
+          "paragraph": "Reloj de diseño ideal tanto para uso cotidiano en tareas diarias como para modo de ejercicio: caminar, correr, andar en bicicleta, etc. Incorpora funcionalidades de volumen, zoom y scroll en su perilla giratoria. Permite cargar fondos personalizados de pantalla y customizar su contenido. Mejora en micrófono y auricular."
+        },
+        {
+          "title": "Funcionalidades",
+          "paragraph": "Todas las funcionalidades que necesitas: función de llamada, podómetro, notificaciones de correo y redes sociales, reproducción de música, Monitor de ritmo cardíaca, monitoreo de ejercicio, tiempo de ejercicio, múltiples deportes, Medición del ritmo cardíaco, medición de la presión arterial, control del sueño Recordatorio inteligente, Recordatorio sedentario, recordatorio de llamada. "
+        },
+        {
+          "title": "Detalles técnicos del producto",
+          "paragraph": "Compatibilidad: iOS 8.0 o superior y Android 5.0 o superior.Pantalla: 1.75HDIPS 320*385. Bluetooth: 4.0. Táctil: Pantalla táctil completa batería:230MAH Large-capacity lithium polymer battery IPX68 (resistente a 1.5 max de agua durante 30min).Tiempo de uso: 1 día aprox, dependiendo del uso. Tiempo de carga: 3hs aproximadamente Tiempo de espera: 5 días (dependiendo del funcionamiento real medio ambiente, si enciende la luz larga aumentará el consumo de energía).Requiere descarga de aplicación M Active. Varios idiomas Mide pasos no km Micrófono incluido.Reproduce sonido La caja incluye: 1 x reloj inteligente 1 x Manual del usuario 1x Cable cargador. "
+        }
+      ],
+      "specifications": [
+        {
+          "title": "Pantalla",
+          "especifications1": "Tamaño de pantalla",
+          "especifications2": "1.15'"
+        },
+        {
+          "title": "Memoria",
+          "especifications1": "Memoria Ram",
+          "especifications2": "32 MB"
+        },
+        {
+          "title": "Compatibilidad",
+          "especifications1": "Compatibilidad",
+          "especifications2": "ios android"
+        },
+        {
+          "title": "Resistente al agua",
+          "especifications1": "Tamaño de pantalla",
+          "especifications2": "15.6 pulgadas"
+        },
+        {
+          "title": "Batería",
+          "especifications1": "Bateria",
+          "especifications2": "220MAH Large-capacity lithium"
+        },
+        {
+          "title": "Wi-Fi",
+          "especifications1": "Wi-Fi",
+          "especifications2": "Sí"
+        },
+        {
+          "title": "Bluetooth",
+          "especifications1": "Bluetooth",
+          "especifications2": "Sí"
+        }
+      ]
+    },
+    "10": {
+      "brand": {
+        "image": "https://images.fravega.com/f300/8a0365165c7771f833ca62aaefc07d30.png",
+        "name": "Samsung"
+      },
+      "article": "heladeras",
+      "slug": "heladera-no-frost",
+      "title": "Heladera No Frost Inverter Samsung 396Lt",
+      "images": [
+        "https://images.fravega.com/s500/74c65b6f7635e8b9f9f228d1f0501aad.jpg",
+        "https://images.fravega.com/s500/ee47280cdb5edc42283527a6a9930aef.jpg",
+        "https://images.fravega.com/s500/9626c80129bb61d30fa89a8c209a45f1.jpg",
+        "https://images.fravega.com/s500/3fe246fb2f74e9ab43177a400c402b62.jpg"
+      ],
+      "price": 145999.0,
+      "highlighted": 11.0,
+      "saleoff": 0.0,
+      "unites": 5.0,
+      "description": [
+        {
+          "title": "Diseño",
+          "paragraph": "La heladera Samsung RT38K5932BS tiene un diseño fino e innovador que combina en cualquier tipo de cocina. En su interior, cuenta con estantes de vidrio templado; cajón para frutas y verduras y crisper especial para fiambres y lácteos. A su vez, viene con fábrica de hielo manual. También, tiene incorporado un filtro desodorizante que elimina los malos olores y mantiene el aire fresco y el sabor de las comidas por más tiempo. Por otra parte, cuenta con un cómodo dispenser de agua fresca que evita el abrir y cerrar del refrigerador. A su vez, un display LED permite el control de la unidad desde afuera."
+        },
+        {
+          "title": "Consumo energetico",
+          "paragraph": "Su clasificación de eficiencia energética es clase A+, lo que significa que su consumo de energía es restringido y ayuda en el cuidado del medio ambiente. Por otro lado, su iluminación LED permite el ahorro y evita el calor que producen otro tipo de luces."
+        },
+        {
+          "title": "Capacidad",
+          "paragraph": "Su capacidad total de almacenamiento bruta es de 396 litros y neta es de 382 litros. En el refrigerador, cuenta con 293 litros y el espacio para congelados en el freezer es de 89 litros."
+        }
+      ],
+      "specifications": [
+        {
+          "title": "Refrigerador",
+          "especifications1": "Estantes regulables",
+          "especifications2": "Sí"
+        },
+        {
+          "title": "Capacidad",
+          "especifications1": "Capacidad bruta",
+          "especifications2": "396 litros"
+        },
+        {
+          "title": "Características generales",
+          "especifications1": "Control de temperatura",
+          "especifications2": "Sí"
+        },
+        {
+          "title": "Consumo",
+          "especifications1": "Eficiencia energética",
+          "especifications2": "A"
+        },
+        {
+          "title": "Luz interior",
+          "especifications1": "Luz interior",
+          "especifications2": "Sí"
+        },
+        {
+          "title": "Display LCD",
+          "especifications1": "Display LCD",
+          "especifications2": "No"
+        },
+        {
+          "title": "Modelo y origen",
+          "especifications1": "Origen",
+          "especifications2": "Argentina"
+        }
+      ]
+    }
+  }
+}
